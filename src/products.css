@@ -72,7 +72,9 @@ header {
     transform: translateX(-17.5rem);
   }
 }
+
 .logo {
+  display: block;
   width: 250px;
   height: auto;
   padding-block: 0.75rem;
